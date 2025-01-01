@@ -39,3 +39,19 @@ In conclusion, this project highlights the advantages of zonal architecture in a
 - **Energy and Resource Optimization:** Minimize energy consumption and wiring requirements by employing localized control and data management within defined vehicle zones.  
 - **Prototyping and Validation:** Develop and validate a functional prototype using simulation tools (Simulink, Tinkercad) and hardware components to demonstrate the feasibility and effectiveness of the proposed system.  
 
+---
+
+## Gantt Chart  
+
+A Gantt chart visualizing the timeline for the extended project (PROJ3999) will be included here.  
+
+![Gantt Chart Placeholder](https://via.placeholder.com/800x400?text=Gantt+Chart+for+PROJ3999)  
+
+---
+
+## Targeted IEEE Conferences  
+
+1. **[IEEE International Conference on Mechatronics (ICM 2025)](https://www.ieee-icm.org/)**  
+2. **[IEEE Applied Power Electronics Conference and Exposition (APEC 2025)](https://www.apec-conf.org/)**  
+ 
+
