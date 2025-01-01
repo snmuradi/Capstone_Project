@@ -41,11 +41,16 @@ In conclusion, this project highlights the advantages of zonal architecture in a
 
 ---
 
-## Gantt Chart  
+## Gantt Chart for PROJ3999  
 
-A Gantt chart visualizing the timeline for the extended project (PROJ3999) will be included here.  
-
-![Gantt Chart Placeholder](https://via.placeholder.com/800x400?text=Gantt+Chart+for+PROJ3999)  
+| Task                          | Week 1 | Week 2 | Week 3 | Week 4 | Week 5 | Week 6 | Week 7 | Week 8 | Week 9 | Week 10 | Week 11 | Week 12 |  
+|-------------------------------|--------|--------|--------|--------|--------|--------|--------|--------|--------|---------|---------|---------|  
+| Literature Review             |   ✔️   |   ✔️   |   ✔️   |   ✔️   |        |        |        |        |        |         |         |         |  
+| System Design (Architecture)  |        |        |        |   ✔️   |   ✔️   |   ✔️   |        |        |        |         |         |         |  
+| Simulation (Tinkercad/Simulink)|        |        |        |        |        |   ✔️   |   ✔️   |   ✔️   |        |         |         |         |  
+| Prototyping                   |        |        |        |        |        |        |        |   ✔️   |   ✔️   |   ✔️    |         |         |  
+| Testing and Validation        |        |        |        |        |        |        |        |        |   ✔️   |   ✔️    |   ✔️    |         |  
+| Documentation and Presentation|        |        |        |        |        |        |        |        |        |   ✔️    |   ✔️    |   ✔️    |  
 
 ---
 
